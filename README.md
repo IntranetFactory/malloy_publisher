@@ -9,7 +9,8 @@
 ```bash
 git clone https://github.com/credibledata/malloy-samples.git
 cd malloy-samples
-npx @malloy-publisher/server --port 4000 --server_root .
+npx @malloy-publisher/server --port 4000 --server_root .?
+
 ```
 
 Open http://localhost:4000 to explore the sample models.
